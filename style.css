@@ -1,0 +1,32 @@
+* {
+    font-family: "Comic Sans MS", "Comic Neue", sans-serif, cursive;
+}
+
+img {
+    width: 660px;
+}
+
+form {
+  position: absolute;
+  top: 130px;
+  left: 105px;
+}
+
+form div {
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+form div label {
+    margin-right: 10px;
+}
+
+button {
+    display: block;
+    margin: 0 auto!important;
+}
+
+.modal {
+    padding: 20px;
+    text-align: center;
+}
